@@ -1,0 +1,82 @@
+.irPara{
+    background-color: rgb(49, 175, 127);
+    border-radius: 7px;
+    border: none;
+}
+
+fieldset{
+    border-radius: 7px;
+    border:none;
+    background-color: white;
+}
+form{
+    display:inline;
+}
+.button-acess{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+    background-color: rgb(49, 175, 127);
+    border:none;
+    border-radius:25px;
+    width: 9rem;
+    height: 2rem;
+    font-weight: bold;
+    color: white;
+}
+.button-acess-cad{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+    background-color:white;
+    border-radius:25px;
+    width: 9rem;
+    height: 2rem;
+    font-weight: bold;
+    color: rgb(49, 175, 127);
+    border: 1px;
+}
+.testo-pequenho-acess{
+    font-family: Helvetica, sans-serif;
+    font-size: small;
+    color: aliceblue;
+
+}
+.titulo-criar-acess{
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size:27px;
+
+}
+
+.titulo-acess{
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color:  rgb(49, 175, 127);
+    font-size:50px;
+    width: 20rem;
+}
+.input{
+    border-radius: 25px;
+    border-color: rgb(230, 226, 226);
+    border-style: unset;
+    background-color: rgb(252, 249, 249) ;
+    width: 15rem;
+    height: 2rem;
+    margin: 5px;
+    font-family:Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: small;
+
+
+}
+body{
+    background-color:aliceblue ;
+}
+
+.log{
+align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 20rem;
+
+}
